@@ -1,2 +1,4 @@
 This is first line from VS Code
 This is from Vs for git status
+This is first line from VS Code
+This is from Vs for git sub branch
