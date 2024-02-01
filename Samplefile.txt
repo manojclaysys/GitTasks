@@ -1,2 +1,2 @@
 This is first line from VS Code
-This is from Vs for git diff
+This is from Vs for git status
